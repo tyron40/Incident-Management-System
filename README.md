@@ -2,7 +2,13 @@
 
 A comprehensive full-stack application for monitoring, tracking, and resolving incidents in Java applications. This system provides tools for application troubleshooting, incident management, performance analysis, and system health monitoring.
 
-![Dashboard Screenshot](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![screencapture-wondrous-squirrel-9e394e-netlify-app-system-health-2025-03-27-17_51_04](https://github.com/user-attachments/assets/83d27497-ce78-46cc-87f0-c13fca56b069)
+![screencapture-wondrous-squirrel-9e394e-netlify-app-database-console-2025-03-27-17_51_16](https://github.com/user-attachments/assets/2d788a5c-1e2e-49f0-912d-c399eca29d73)
+![screencapture-wondrous-squirrel-9e394e-netlify-app-container-status-2025-03-27-17_51_32](https://github.com/user-attachments/assets/a0a95981-fdbf-4637-8a39-e69a86a34996)
+![screencapture-wondrous-squirrel-9e394e-netlify-app-2025-03-27-17_50_11](https://github.com/user-attachments/assets/2108a2eb-3e39-4774-b2b7-5ef5f4cb9f74)
+![screencapture-wondrous-squirrel-9e394e-netlify-app-incidents-2025-03-27-17_50_35](https://github.com/user-attachments/assets/3434743f-7791-4360-9d10-47b5ab5c7a96)
+![screencapture-wondrous-squirrel-9e394e-netlify-app-create-incident-2025-03-27-17_50_45](https://github.com/user-attachments/assets/883c024b-8106-49d3-8b13-e3cdc172af1e)
+
 
 ## 🚀 Features
 
